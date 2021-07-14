@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+<p style="color: pink;">Hello GitHub's Word!</p>
 Use the left arrow to go back!
